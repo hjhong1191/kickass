@@ -1,0 +1,150 @@
+* {
+  margin:0;
+}
+body {
+  width:892px;
+}
+.banner{
+  width: 892px;
+  height: 50px;
+  background-color: white;
+  position: fixed;
+}
+.logo {
+  position:fixed;
+  top:10px;
+  left:100px;
+}
+.banner-pic {
+  position:fixed;
+  padding-left: 700px;;
+}
+span {
+  padding-right: 15px;
+}
+.top{
+font-family: helvetica;
+font-weight: bold;
+font-size: 13pt;
+position:fixed;
+left: 470px;
+top:15px;
+}
+.headline {
+  position: fixed;
+  left:80px;
+  top:50px;
+}
+.confetti{
+  width:100%;
+  margin-bottom: 30px;
+}
+.middle {
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 18pt;
+  display: inline-block;
+  margin: 0 auto;
+  width: 892px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.text1{
+  font-size: 14pt;
+  display: inline-block;
+  margin: 0 auto;
+  width: 290px;
+  padding-left: 100px;
+  padding-right: 20px;
+}
+.text2{
+  font-size: 14pt;
+  display: inline-block;
+  margin: 0 auto;
+  width: 290px;
+  padding-right:150px;
+}
+.circle1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  border: solid gray 1px;
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+.circle2 {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  border: solid gray 1px;
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.attr1{
+  font-family:helvetica;
+  font-size: 12pt;
+  display: inline-block;
+  margin: 0 auto;
+  width: 200px;
+}
+.attr2{
+  font-family:helvetica;
+  font-size: 12pt;
+  display: inline-block;
+  margin: 0 auto;
+  width: 200px;
+}
+.inattr{
+  color: rgb(192,192,192);
+  display: inline-block;
+  margin: 0 auto;
+  width:200px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+}
+.person{
+  display: inline-block;
+  margin: 0 auto;
+  width: 100px;
+  padding-left: 10px;
+}
+.gray-box{
+  background-color: gray;
+  font-family: helvetica;
+  color: white;
+  padding: 40px;
+  line-height: 2em;
+}
+.tour{
+  display: inline-block;
+  margin:0 auto;
+  width: 200px;
+  vertical-align: top;
+}
+.users{
+  display: inline-block;
+  margin:0 auto;
+  width: 200px;
+  vertical-align: top;
+}
+.company {
+  display: inline-block;
+  margin:0 auto;
+  width: 200px;
+  vertical-align: top;
+}
+.follow{
+  display: inline-block;
+  margin:0 auto;
+  width: 200px;
+  vertical-align: top;
+}
+.first {
+  font-weight: bold;
+  font-size: 10pt;
+  color: rgb(192,192,192);
+}
